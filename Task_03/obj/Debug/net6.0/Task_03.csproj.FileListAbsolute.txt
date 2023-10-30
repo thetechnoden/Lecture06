@@ -1,0 +1,14 @@
+D:\Uni\Lectures\Lecture06\Task_03\bin\Debug\net6.0\Task_03.exe
+D:\Uni\Lectures\Lecture06\Task_03\bin\Debug\net6.0\Task_03.deps.json
+D:\Uni\Lectures\Lecture06\Task_03\bin\Debug\net6.0\Task_03.runtimeconfig.json
+D:\Uni\Lectures\Lecture06\Task_03\bin\Debug\net6.0\Task_03.dll
+D:\Uni\Lectures\Lecture06\Task_03\bin\Debug\net6.0\Task_03.pdb
+D:\Uni\Lectures\Lecture06\Task_03\obj\Debug\net6.0\Task_03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni\Lectures\Lecture06\Task_03\obj\Debug\net6.0\Task_03.AssemblyInfoInputs.cache
+D:\Uni\Lectures\Lecture06\Task_03\obj\Debug\net6.0\Task_03.AssemblyInfo.cs
+D:\Uni\Lectures\Lecture06\Task_03\obj\Debug\net6.0\Task_03.csproj.CoreCompileInputs.cache
+D:\Uni\Lectures\Lecture06\Task_03\obj\Debug\net6.0\Task_03.dll
+D:\Uni\Lectures\Lecture06\Task_03\obj\Debug\net6.0\refint\Task_03.dll
+D:\Uni\Lectures\Lecture06\Task_03\obj\Debug\net6.0\Task_03.pdb
+D:\Uni\Lectures\Lecture06\Task_03\obj\Debug\net6.0\Task_03.genruntimeconfig.cache
+D:\Uni\Lectures\Lecture06\Task_03\obj\Debug\net6.0\ref\Task_03.dll
